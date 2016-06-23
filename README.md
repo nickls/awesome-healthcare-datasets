@@ -24,21 +24,17 @@ A curated list of awesome healthcare datasets in the public domain.
   * Provider Details (NPI, name, credentials, gender, etc.)
   * Credentials (Medical School, Year attended, Speciality)
   * Group Practices (legal name, PAC ID, address, etc.)
-
-
 * [Medicare Utilization](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Physician-and-Other-Supplier.html) - Medicare Provider Utilization and Payment Data - lists procedures and payments for individual providers -  [ZIP (1.9G)](http://download.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Downloads/Medicare_Provider_Util_Payment_PUF_CY2014.zip)
   * Provider Details (NPI, name, credentials, gender, etc.)
   * Procedure Code (HCPCS)
   * Procedure Description
   * Number of procedures
   * Reimbursement Details
-
 * [Open Payments](https://www.cms.gov/OpenPayments/Explore-the-Data/Dataset-Downloads.html) - Direct and indirect payments to Physicians by device and drug manufacturers
   * Provider Details (name, id, etc.)
   * Manufacturer Details (name, id)
   * Product Details (drug or device name)
   * Payment details (type, dollar value, etc)
-
 * [Physician Referral](https://questions.cms.gov/faq.php?faqId=7977) - Referrals of medicare beneficiaries between providers
   * Initial NPI
   * Secondary NPI
@@ -52,8 +48,7 @@ A curated list of awesome healthcare datasets in the public domain.
 * [EHR Attestation Program](http://dashboard.healthit.gov/datadashboard/documentation/ehr-products-mu-attestation-data-documentation.php) - Meaningful Use EHR Attestation Data -- [CSV  (234M)](http://dashboard.healthit.gov/datadashboard/data/MU_REPORT.csv)
   * Certification IDs
   * Vendor and Product Name
-  * Usage Details (State, Provider Type, Specialty, NPI, etc.)
-  
+  * Usage Details (State, Provider Type, Specialty, NPI, etc.)  
 * [Certified Health IT Product List](http://oncchpl.force.com/ehrcert) - certification details for EHRs - [XSL (7M)](http://oncchpl.force.com/ehrcert/DownloadReport)
   * Product Details
   * Certification Criteria
