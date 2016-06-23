@@ -4,10 +4,8 @@ A curated list of awesome healthcare datasets in the public domain.
 
 ## Contents
 - [Provider Data](#provider-data)
-<!-- - [Hospital Data](#hospital-data) -->
 - [Electronic Health Record System](#eletronic-health-record-system)
 - [Drugs](#drugs)
-<!-- - [Accountable Care Organizations](#accountable-care-organizations) -->
 - [Medicare Advantage Plans](#medicare-advantage-plans)
 
 - - -
@@ -19,11 +17,9 @@ A curated list of awesome healthcare datasets in the public domain.
   * Practice Address
   * Speciality / Healthcare Taxonomy
   * State License
-
 * [List of Excluded Individuals and Entities](http://oig.hhs.gov/exclusions/exclusions_list.asp) - the list you do not want to be on, excluded from all Federally funded health care programs - [ZIP (11M)](http://oig.hhs.gov/exclusions/downloadables/UPDATED.csv)
   * Provider Details (NPI, etc)
   * Exclusion Details
-
 * [Physician Compare](https://data.medicare.gov/data/physician-compare) - gives education and affiliation details for providers - [CSV (196M)](https://data.medicare.gov/api/views/s63f-csi6/rows.csv?accessType=DOWNLOAD)
   * Provider Details (NPI, name, credentials, gender, etc.)
   * Credentials (Medical School, Year attended, Speciality)
