@@ -4,7 +4,7 @@ A curated list of awesome healthcare datasets in the public domain.
 
 ## Contents
 - [Provider Data](#provider-data)
-- [Electronic Health Record System](#eletronic-health-record-system)
+- [Electronic Health Record Systems](#eletronic-health-record-systems)
 - [Drugs](#drugs)
 - [Medicare Advantage Plans](#medicare-advantage-plans)
 
@@ -44,7 +44,7 @@ A curated list of awesome healthcare datasets in the public domain.
 * [Hospital Compare](https://data.medicare.gov/data/hospital-compare) -  -->
 
 
-## Electronic Health Record System (EHRs)
+## Electronic Health Record Systems
 * [EHR Attestation Program](http://dashboard.healthit.gov/datadashboard/documentation/ehr-products-mu-attestation-data-documentation.php) - Meaningful Use EHR Attestation Data -- [CSV  (234M)](http://dashboard.healthit.gov/datadashboard/data/MU_REPORT.csv)
   * Certification IDs
   * Vendor and Product Name
@@ -61,7 +61,7 @@ A curated list of awesome healthcare datasets in the public domain.
 
 
 ## Medicare Advantage
-* [MA Plan Directory](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/MCRAdvPartDEnrolData/MA-Plan-Directory.html) - Listing of all Medicare Advantage companies and contracts - [ZIP (190K)]((https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/MCRAdvPartDEnrolData/Downloads/MA-Plan-Directory.zip)
+* [MA Plan Directory](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/MCRAdvPartDEnrolData/MA-Plan-Directory.html) - Listing of all Medicare Advantage companies and contracts - [ZIP (190K)](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/MCRAdvPartDEnrolData/Downloads/MA-Plan-Directory.zip)
 
 
 
