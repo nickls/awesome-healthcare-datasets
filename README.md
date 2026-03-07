@@ -7,6 +7,7 @@ A curated list of awesome healthcare datasets in the public domain.
 - [Electronic Health Record Systems](#eletronic-health-record-systems)
 - [Drugs](#drugs)
 - [Medicare Advantage Plans](#medicare-advantage-plans)
+- [Personal Health Tools](#personal-health-tools)
 
 - - -
 
@@ -63,7 +64,8 @@ A curated list of awesome healthcare datasets in the public domain.
 ## Medicare Advantage
 * [MA Plan Directory](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/MCRAdvPartDEnrolData/MA-Plan-Directory.html) - Listing of all Medicare Advantage companies and contracts - [ZIP (190K)](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/MCRAdvPartDEnrolData/Downloads/MA-Plan-Directory.zip)
 
-
+## Personal Health Tools
+* [Bloodboy](https://github.com/mizoloff/bloodboy) - Privacy-first browser-based blood test tracker. Helps track biomarkers with local storage. No account required.
 
 - - -
 
