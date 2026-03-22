@@ -65,6 +65,10 @@ A curated list of awesome healthcare datasets in the public domain.
 
 
 
+## Synthetic Data
+* [Synthea](https://github.com/synthetichealth/synthea) - Synthetic patient population simulator that generates realistic FHIR, C-CDA, and CSV patient records.
+* [mock.health](https://mock.health) - FHIR R4 API sandbox with thousands of clinically realistic synthetic patients, SMART on FHIR auth, and US Core 6.1 compliance.
+
 - - -
 
 Todo:
