@@ -42,6 +42,7 @@ A curated list of awesome healthcare datasets in the public domain.
 
 <!-- ## Hospital Data
 * [Hospital Compare](https://data.medicare.gov/data/hospital-compare) -  -->
+* [Level Outpatient Healthcare Financial Benchmarks](https://levelcfo.com/benchmarks/healthcare/) - Open CSV/JSON dataset of outpatient medical, dental, and behavioral health provider revenue per FTE, overhead ratios, Days in Net A/R, and claim denial rates ([GitHub](https://github.com/levelcfo/smb-financial-benchmarks)).
 
 
 ## Electronic Health Record Systems
